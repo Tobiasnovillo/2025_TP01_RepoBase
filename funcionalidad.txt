@@ -1,1 +1,2 @@
 Nueva funcionalidad implementada
+Mejora en la funcionalidad
